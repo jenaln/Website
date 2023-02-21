@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T15:55:54.296Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.11" etag="3-kEHsQPFdp3VQz6enMq" type="github"><diagram name="Page-1" id="9skOnACocQgpOIkyoYsb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-21T16:29:35.301Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="YtvPJM9WjxqyjfmJEdjW" version="20.8.11" type="github">
+  <diagram name="Page-1" id="9skOnACocQgpOIkyoYsb">
+    <mxGraphModel dx="1050" dy="573" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3ReT4-xpyPV2keO271Yo-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;-Input the username and password into login form.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Arial;align=center;verticalAlign=middle;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="26" y="223" width="227" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3ReT4-xpyPV2keO271Yo-4" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Arial&quot;&gt;-Took and checked errors in login account.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="316" y="223" width="227" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3ReT4-xpyPV2keO271Yo-6" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Arial&quot;&gt;-Main page/Dashboard&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="606" y="223" width="227" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3ReT4-xpyPV2keO271Yo-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Arial;fontSize=17;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" target="3ReT4-xpyPV2keO271Yo-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="253" y="283" as="sourcePoint" />
+            <mxPoint x="305" y="233" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ReT4-xpyPV2keO271Yo-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Arial;fontSize=17;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="543" y="280" as="sourcePoint" />
+            <mxPoint x="606" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
